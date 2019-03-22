@@ -1,0 +1,20 @@
+{
+  "name": "kaka-app",
+  "version": "0.0.1",
+  "description": "build a app without UI, Router, Ajax ...",
+  "main": "dist/index.js",
+  "scripts": {
+  },
+  "author": "W.X.",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/totoziyou/kaka-app.git"
+  }
+}
